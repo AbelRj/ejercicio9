@@ -1,0 +1,9 @@
+.contenedor-imagen{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.supermanimg{
+    width: 200px;
+}
