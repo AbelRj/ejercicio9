@@ -1,0 +1,23 @@
+.form{
+    background-color: olive;
+}
+.contenedor-sticker{
+    background-color: orange;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,400px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+.btncalcular{
+    width: 100%;
+    height: 40px;
+}
+.parrafo-resultado{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    font-size: 25px;
+    color: oldlace;
+
+}

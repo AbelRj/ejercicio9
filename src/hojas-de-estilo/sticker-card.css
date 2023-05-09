@@ -1,0 +1,15 @@
+.card{
+    list-style: none;
+    text-align: center;
+
+}
+.imagen-card{
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+
+}
+.inputnumber{
+    width: 20%;
+    height: 30px;
+}
